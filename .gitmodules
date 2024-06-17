@@ -1,0 +1,3 @@
+[submodule "mowa-wifi-sensing"]
+	path = mowa-wifi-sensing
+	url = https://github.com/ejsong25/mowa-wifi-sensing.git
